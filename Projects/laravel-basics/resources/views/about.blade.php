@@ -1,7 +1,9 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: hagen
- * Date: 2019-02-23
- * Time: 19:05
- */
+@extends('layout')
+
+@section('title', 'About Alexander')
+
+@section('header')
+    <div class="title m-b-md">
+        About Alexander
+    </div>
+@endsection
